@@ -5,6 +5,9 @@ Since I want to join a specific server, this restriction basically made me const
 
 This scraper will collect all server status regardless of its region.
 
+## Prerequisite
+`pip install beautifulsoup4`
+
 ## Usage
 Start by declaring the object and just start calling methods.
 
