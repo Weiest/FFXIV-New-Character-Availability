@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 class FFXIVCreationAvailabilityChecker:
-    URL = 'https://jp.finalfantasyxiv.com/lodestone/worldstatus/'
+    URL = 'https://na.finalfantasyxiv.com/lodestone/worldstatus/'
     status = {}
 
     def __init__(this):
